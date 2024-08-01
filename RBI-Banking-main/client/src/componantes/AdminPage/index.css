@@ -1,0 +1,60 @@
+
+
+
+.personal_loan_status_update_button{
+  background-color:#EBCA28;
+  
+}
+
+
+.personal_loan_status_update_button:focus{
+  outline: none;
+  box-shadow: none;
+}
+
+
+.status_update_admin_header_title1{
+  font-size: 30px;
+  font-weight: 500;
+  color: #2FB68E;
+  margin-top: 20px;
+
+}
+.status_update_admin_header_title2{
+  font-size: 20px;
+  font-weight: 500;
+  color:  #2FB68E;
+  margin-top: 20px;
+  text-align: left;
+}
+.status_update_admin_table_header{
+  color: rgb(104, 104, 104);
+}
+.status_update_admin_main_table_head{
+  background-color: rgb(174, 249, 174);
+}
+.status_update_admin_table:nth-child(even){
+  background-color: rgb(174, 249, 174);
+}
+.status_update_admin_table_data_status{
+  text-align: center;
+}
+.status_update_admin_table_select{
+  border: none;
+  background-color: transparent;
+}
+.status_update_admin_table_select:focus {
+  outline: none !important;
+  box-shadow: none; /* Optional: Remove any box shadow */
+} 
+
+.status_update_admin_table_select option{
+  border: none;
+  
+  
+}
+.status_update_admin_table_select option:focus {
+  outline: none !important;
+  box-shadow: none; /* Optional: Remove any box shadow */
+} 
+

@@ -1,0 +1,108 @@
+
+.verfied_loan_main_container{
+   padding: 30px;
+   font-family: sans-serif;
+}
+.verfied_loan_main_container_form{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: #fff;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+.verfied_loan_main_form_heading{
+    font-size: 22px;
+    margin-top: 10px;
+    color: #2FB68E;
+}
+.personal_loan_alert_message{
+    color: #EBCA28;
+}
+.verfied_loan_sub_heading{
+    font-size: 16px;
+    color: rgb(92, 92, 92);;
+}
+
+.loan_verfied_horizontalLine .hrline{
+   border: 1px solid rgb(161, 161, 161);
+}
+.verfied_loan_lable{
+    font-size: 15px;
+    color: rgb(92, 92, 92);
+}
+
+.verfied_loan_input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 0%;
+    width: 50%
+}
+.verfied_loan_input:focus {
+    outline: none !important;
+    box-shadow: none; 
+} 
+
+.verfied_loan_lable_inputs{
+    font-size: 15px;
+    color: rgb(44, 44, 44);
+}
+.verfied_loan_toggle{
+    /* border-left: none;
+    border-right: none;
+    border-top: none; */
+    border-radius: 0%;
+    width: 50%
+}
+
+
+.verfied_loan_sub_bottom-title{
+    width: 50%;
+    font-size: 13px;
+    color:  rgb(92, 92, 92);;
+}
+
+
+.verify_detailes_toggle:focus{
+    border: 1px solid lightgray;
+    
+}
+.verfied_loan_apply_button{
+    background-color: #EBCA28;
+    color: #fff;
+    width: 300px;
+}
+.verfied_loan_button1{
+    box-shadow: rgba(177, 144, 36, 0.4) 0px 0px 0px 2px, rgba(234, 157, 5, 0.65) 0px 4px 6px -1px, rgba(232, 189, 16, 0.08) 0px 1px 0px inset;
+    width: 300px;
+
+}
+.loan_verfied_buttons{
+    margin-bottom: 20px;
+    justify-content: space-evenly;
+    
+}
+
+.verify_detailes_main_container_submit_button{
+    margin-top: 10px;
+    background-color: lightslategray;
+}
+
+.verfied_loan_apply_button{
+    outline: none !important;
+   
+}
+.verfied_loan_apply_button:hover{
+    color: #fff;
+   
+}
+.verfied_loan_apply_button:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+
+
+.personal_loan_err_message{
+    color: red;
+}

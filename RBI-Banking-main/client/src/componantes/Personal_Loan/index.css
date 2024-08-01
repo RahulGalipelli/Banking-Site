@@ -1,0 +1,249 @@
+.main_personal_loan_image_container{
+    /* background-image: url('https://www.kotak.com/content/dam/Kotak/geo-specific-pages/hero-banner/types-of-personal-loan-d.jpg'); */
+    /* background-image: url('https://www.kotak.com/content/dam/Kotak/herosliderbanner/account-maintenance.png'); */
+    /* background-image: url('https://www.kotak.com/content/dam/Kotak/article-images/4-tips-to-get-the-best-personal-loan-interest-rates-desk.jpg'); */
+    background-image: url('https://www.nowloan.co.uk/wp-content/uploads/personal-loans.png');
+
+    background-size: cover;
+ 
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+.personal_loan_imag_content{
+    
+    margin-left: 60px;
+}
+.personal_loan_img_content_heading{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(56, 56, 56);
+    margin-top: 10px;
+}
+.personal_loan_img_content_heading_word1{
+    color: #EBCA28;
+   
+}
+.personal_loan_img_content_heading_word2{
+    color: #2FB68E;
+}
+.personal_loan_img_content_point1{
+    font-size: 20px;
+}
+.personal_loan_img_content_points{
+    /* text-align: center; */
+    font-weight: 550;
+    color: rgb(66, 66, 66);
+}
+/* .personal_loan_content_points{
+    display: flex;
+    justify-content: center;
+
+
+} */
+.personal_loan_img_content_icons{
+    margin-right: 10px;
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 4px;
+    font-size: 18px;
+
+    
+}
+.personal_loan_img_content_Eligibility{
+    margin-bottom: 20px;
+    background-color: #EBCA28 !important;
+    border-radius: 10px;
+    border: none;
+    font-weight: 550;
+    color: rgb(245, 243, 243) !important;
+
+}
+
+.personal_loan_img_content_Eligibility:hover{
+    outline: none !important;
+    box-shadow: none;
+    color: #fff !important;
+    
+}
+
+.personal_loan_page_bottom_imgs{
+    width: 200px;
+}
+
+
+
+
+.content-first_contaner{
+    margin-top: 50px;
+}
+
+.personal_loan_home_page_first_container_image{
+    background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG2o-jhXx3lpWvB105iWa57_FjHH25ko_fvDNdasXYiljuv7wa');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+}
+.personal_loan_home_page_first_container_image_title{
+    padding-top: 8px;
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 600;
+}
+.personal_loan_home_page_first_container_image_dis{
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    text-align: left;
+    transition: height 4s;
+}
+
+
+.personal_loan_home_page_first_container_heading1{
+    margin-top: 50px;
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 20px;
+    padding-left: 30px;
+    
+    font-size: 18px;
+}
+
+.viewmoew{
+    cursor: pointer;
+}
+
+.personal_loan_home_page_first_container_Emi_banner{
+    width: 80%;
+    margin-left: 50px;
+}
+.personal_loan_home_page_first_container_Emi_banner_title{
+    font-size: 28px;
+}
+.personal_loan_home_page_first_container_Emi_banner_title_number{
+    font-size: 24px;
+    font-weight: 500;
+    color: #2FB68E;
+}
+.personal_loan_home_page_first_container_Emi_banner_button {
+    border-radius: 30px !important;
+    border: #f37e20 !important;
+    background-color: #EBCA28 !important;
+    color: #fff !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
+.personal_loan_home_page_first_container_Emi_banner_button:hover{
+    color: #fff;
+}
+.personal_loan_home_page_first_container_number_input_rang{
+    width:650px;
+}
+.personal_loan_home_page_first_container_number_input{
+    overflow: hidden !important;
+}
+.personal_loan_home_page_select_content_tenure{
+
+    height: 32px !important;
+    width: 650px;
+    /* font-size: 13px !important; */
+}
+
+
+
+.personal_loan_home_page_first_container_heading2{
+    margin-top: 50px;
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 20px;
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+
+.personal_loan_home_page_first_container_Nav_Tab{
+    display: flex;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 20px;
+   
+}
+.personal_loan_home_page_first_container_Nav_Tab_title{
+   
+    border-right: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.existing_customner_main_container_faq{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 20px;
+    padding-left: 30px;
+    margin-top: 30px;
+    text-align: left;
+}
+.existing_customner_main_container_faq_heading_main_title{
+    font-size: 24px;
+    font-weight: 500;
+}
+.existing_customner_main_container_faq_heading_title{
+    font-weight: 500;
+}
+
+
+.personal_loan_home_page_first_container3{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: 30px;
+    padding: 20px;
+    padding-left: 30px;
+}
+.personal_loan_home_page_first_container_heading3{
+    font-weight: 500;
+    text-align: left;
+    padding-top: 30px;
+    font-size: 18px;
+}
+.personal_loan_home_page_first_container_heading3_subheading{
+    font-weight: 500;
+    text-align: left;
+  
+    font-size: 14px;
+}
+.personal_loan_home_page_first_container_heading3_subheading_title{
+    text-align: left;
+    
+}
+.personal_loan_home_page_first_container_table_subheading_title{
+   padding-top: 36px !important;
+}
+
+
+.personal_loan_home_page_container_heading4{
+   padding: 20px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.personal_loan_home_page_heading4{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 500;
+}
+.personal_loan_home_page_container_Insurance{
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+.personal_loan_home_page_first_container_button{
+    color: #fff;
+    background-color: #2FB68E !important;
+    border: none;
+}
+.personal_loan_home_page_first_container_button:hover{
+    background-color: #EBCA28;
+    color: #fff;
+}
+
+
+  
+

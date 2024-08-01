@@ -1,0 +1,86 @@
+
+.register_form_main_container{
+    background-color: rgba(252, 248, 248, 0.858);
+    padding-bottom: 20px;
+}
+
+.Register_Main_container{
+    background-color: #fff;
+    font-family: sans-serif;
+}
+.Register_form_heading{
+    font-size: 40px;
+    margin-top: 10px;
+    text-align: left;
+    
+}
+.register_form_container{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    padding: 100px;
+    
+}
+
+.register-form_lable{
+    font-size: 18px;
+    text-align: left;
+}
+.register_container_input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.form-control:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.register_form_check_lable{
+    font-size: 13px;
+    color: rgb(130, 130, 130);
+    text-align: left;
+}
+.register_form_button{
+    background-color: #EBCA28;
+    margin-top: 30px;
+    text-align: center;
+    width: 400px;
+    color: #fff;
+}
+.register_form_button:focus{
+    outline: none !important;
+   
+}
+.register_form_button:hover{
+    color:#fff;
+}
+
+
+.register_sec_container{
+    background-color: rgba(222, 221, 221, 0.858);
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    
+}
+.register_sec_container_heading{
+    font-size: 20px;
+   
+    
+}
+.register_sec_container_button{
+    margin-top: 15px;
+    
+    background-color: #2FB68E;
+    box-shadow: #6b7774(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    margin-bottom: 20px;
+}
+.register_sec_container_button{
+    outline: none !important; 
+}
+

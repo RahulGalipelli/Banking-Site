@@ -1,0 +1,177 @@
+/* 
+.personal_loan_check_Status_container{
+    margin-left: 20%;
+}
+.personal_loan_check_Status_main_headding{
+    font-size: 25px;
+    text-align: left;
+    margin-top: 30px;
+    font-weight: 550;
+    color: #2FB68E;
+}
+.personal_loan_check_Status_sub_container{
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.08);
+    width: 80%;
+    padding: 20px;
+    border-radius: 15px;
+}
+.personal_loan_check_Status_sub_container_heading{
+    font-size: 20px;
+    color: #EBCA28;
+}
+.personal_loan_check_Status_main_sub_container_lable{
+    color: rgb(138, 137, 137);
+}
+
+.personal_loan_check_Status_lable{
+    text-align: left;
+    
+}
+
+.personal_loan_check_Status_sub_container{
+    text-align: left;
+}
+.personal_loan_check_Status_input{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.personal_loan_check_Status_input:focus {
+    outline: none !important;
+    box-shadow: none; 
+}  
+
+.personal_loan_check_Status_Button{
+    background-color: #EBCA28;
+    width: 250px;
+    margin-top: 310px;
+    border-radius: 30px;
+    color: #fff;
+}
+.personal_loan_check_Status_Button:hover{
+    color: #fff;
+}
+.personal_loan_check_Status_Button:focus {
+    outline: none !important;
+    box-shadow: none; 
+} 
+
+.personal_loan_status_img{
+    width:200px;
+}
+.personal_loan_status_success{
+    font-size: 20px;
+    font-weight: 500;
+    color: green;
+    margin-top: 20px;
+}
+.personal_loan_status_rej{
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+    margin-top: 20px;
+}
+
+.display_none{
+    display: none;
+}
+.personal_loan_status_update_icon{
+    font-size: 30px;
+}
+
+.personal_loan_status_error_message{
+    color: #2FB68E;
+} */
+
+
+
+.personal_loan_ckeck_status_logo_container{    
+    background: #fff;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+.personal_loan_check_Status_main_headding{
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: 550;
+    color: #2FB68E;
+   
+    
+}
+.personal_loan_check_Status_sub_container{
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.08);
+    margin: 0 auto;
+    width: 50%;
+    padding: 20px;
+    border-radius: 15px;
+}
+.personal_loan_check_Status_sub_container_heading{
+    font-size: 20px;
+    color: #EBCA28;
+}
+.personal_loan_check_Status_main_sub_container_lable{
+    color: rgb(138, 137, 137);
+}
+
+.personal_loan_check_Status_lable{
+    text-align: left;
+    
+}
+
+.personal_loan_check_Status_sub_container{
+    text-align: left;
+}
+.personal_loan_check_Status_input{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.personal_loan_check_Status_input:focus {
+    outline: none !important;
+    box-shadow: none; 
+}  
+
+.personal_loan_check_Status_Button{
+    background-color: #EBCA28;
+    width: 250px;
+    margin-top: 310px;
+    border-radius: 30px;
+    color: #fff;
+}
+.personal_loan_check_Status_Button:hover{
+    color: #fff;
+}
+.personal_loan_check_Status_Button:focus {
+    outline: none !important;
+    box-shadow: none; 
+} 
+
+.personal_loan_status_img{
+    width:200px;
+}
+.personal_loan_status_success{
+    font-size: 20px;
+    font-weight: 500;
+    color: green;
+    margin-top: 20px;
+}
+.personal_loan_status_rej{
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+    margin-top: 20px;
+}
+
+.display_none{
+    display: none;
+}
+.personal_loan_status_update_icon{
+    font-size: 30px;
+}
+
+.personal_loan_status_error_message{
+    color: #2FB68E;
+}

@@ -1,0 +1,177 @@
+.existing_personalLoan_image_container{
+    background-image: url('https://www.kotak.com/content/dam/Kotak/herosliderbanner/hl-banner-d.jpg');
+    
+    background-size: cover;
+   background-position: center;
+  font-family: sans-serif;    
+}
+.existing_personal_loan_icon_image{
+    width: 200px;
+    margin-top: 20px;
+    display: flex;
+}
+.existing_personal_loan_content_heading{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.personal_loan_existing-title{
+    font-weight: 550;
+}
+
+
+.existing_personal_loan_image_bottom_content{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.existing_personal_loan_image_bottom_matter{
+    margin-bottom: 50px;
+    width: 310px;
+    border: 1px dotted rgb(117, 115, 115);
+    border-radius: 5px;
+  
+}
+.existing_personal_loan_image_bottom_icon{
+    margin-right: 6px;
+}
+.existing_personal_loan_image_bottom_title{
+    margin-right: 10px;
+}
+
+
+.sec_existing_personal_loan_container{
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+.sec_existing_personal_loan_container_heading{
+    font-size: 15px;
+    text-align: left;
+}
+
+.existing_personal_loan_registered_number{
+    text-align: left;
+    background-color: #d9f1eb;
+    padding-top: 8px;
+    padding-left: 20px;
+    border-radius: 5px;
+    
+}
+
+.existing_personal_loan_registered_number_lable{
+    font-size: 14px;
+    font-weight: 550;
+    color: rgb(69, 68, 68);
+}
+.existing_personal_loan_input{
+    border-radius: 5px;
+    border: 1px solid rgb(97, 97, 97);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-left: 6px;
+    width: 50%;
+}
+
+.existing_personal_loan_input_otp{
+    width: 30%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+}
+.existing_personal_loan_registered_subtiltle{
+    font-size: 14px;
+}
+.existing_personal_loan_input_otp:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+}   
+.existing_personal_loan_input:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+}   
+
+.existing_personal_loan_registered_date{
+    
+    text-align: left;
+    background-color: lightgray;
+    padding-top: 8px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    
+}
+.exist_personal_Loan_date {
+    border: 1px solid rgb(97, 97, 97);
+    width: 40px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-right: 4px;
+}
+.exist_personal_Loan_date:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+.exist_personal_Loan_month {
+    border: 1px solid rgb(97, 97, 97);
+    width: 40px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-right: 4px;
+}
+.exist_personal_Loan_month:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+.exist_personal_Loan_year {
+    border: 1px solid rgb(97, 97, 97);
+    width: 80px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+.exist_personal_Loan_year:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+.existing_personal_loan_check_box{
+    font-size: 13px;
+    color: rgb(130, 130, 130);
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.existing_personal_loan_Button{
+    background-color: #EBCA28;
+    width: 250px;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: #fff;
+}
+.existing_personal_loan_Button:hover{
+    color:#fff;
+}
+.existing_personal_loan_Button:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+
+.existing_personal_loan_input_container{
+   margin-top: 20px;
+}
+
+.personal_loan_home_page_first_container_button{
+    background-color: #EBCA28;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.Toastify__toast-container {
+    font-size: 0.8em; /* Decrease the font size */
+    width: 150px; /* Decrease the width */
+  }
+  
+  .Toastify__toast {
+    padding: 0px 0px; /* Decrease the padding */
+  }
+  

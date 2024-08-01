@@ -1,0 +1,40 @@
+
+
+.account_details_main_container{
+    background-color: rgb(232, 231, 231);
+    font-family: sans-serif;
+    padding-left: 70px;
+    height: 250px;
+    border-radius: 3px;
+}
+.account_details_main_heading{
+    font-size: 30px;
+    text-align: left;
+    
+}
+.account_details_main_subheading{
+    text-align: left;
+}
+.account_details_main_container_accountnumber{
+    background-color: #fff;
+    width: 600px;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 120px;
+    border-radius: 3px;
+}
+.account_details_account_number_check_circle{
+    text-align: left;
+}
+.account_details_account_number{
+    background-color: rgb(232, 231, 231);
+    padding: 5px;
+}
+
+.account_details_main_container_button{
+    background-color: #F27B1A;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+}

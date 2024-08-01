@@ -1,0 +1,69 @@
+.PersonalLoanDashBoard_container{
+    background-color: #f8f8f7;
+    height: 100vh;
+}
+.PersonalLoanDashBoard_header_secation{  
+    
+    background: #fff;
+    display: flex;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+.PersonalLoanDashBoard_header_secation_bank_logo_container{
+    margin: 20px;
+    
+}
+.PersonalLoanDashBoard_header_secation_bank_logo{
+
+    width: 200px;
+}
+
+.PersonalLoanDashBoard_login_section_heding_title{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 500;
+}
+
+.PersonalLoanDashBoard_login_section_card{
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.08);
+    padding: 18px;
+    margin : 0 auto;
+    width: 50%;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.PersonalLoanDashBoard_login_section_card_inner_section{
+    text-align: left;
+}
+
+.PersonalLoanDashBoard_login_section_card_inner_section_input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: 100%;
+}
+.PersonalLoanDashBoard_login_section_card_inner_section_input:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+
+.PersonalLoanDashBoard_login_section_card_inner_section_button{
+    background-color: #2FB68E;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+.PersonalLoanDashBoard_login_section_card_inner_section_button:hover{
+    color: #fff;
+}
+
+
+.dash_board_responce_message{
+    color:#EBCA28;
+}
+
+.dash_board_responce_message_error{
+    color: red;
+}

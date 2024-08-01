@@ -1,0 +1,96 @@
+
+.personal_loan_details_main_secation{
+    background-color: #f6f6f3ea;
+    height: 100%;
+}
+
+.personal_loan_details_header_secation{
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    background-color: #fff;
+}
+
+.personal_loan_details_header_secation_bank_logo_container{
+    display: flex;
+}
+
+.personal_loan_details_header_secation_bank_logo{
+    width: 150px;
+    margin: 20px;
+}
+
+.personal_loan_details_inner_section_heading{
+    margin-top: 20px;
+    
+}
+.personal_loan_details_inner_section_heading_title{
+    font-size: 24px;
+    font-weight: 550;
+    color:#2FB68E ;
+}
+.personal_loan_details_inner_section_heading_sub_title{
+    font-size: 18px;
+    font-weight: 450;
+}
+
+.personal_loan_details_inner_sub_section{
+    justify-content: center;
+}
+
+
+.personal_loan_details_inner_sub_section_elements{
+    display: flex;
+
+}
+
+.personal_loan_details_inner_sub_section_elements_title_head{
+    width: 150px;
+    text-align: left;
+    font-weight: 500;
+}
+.personal_loan_details_inner_sub_section_elements_title_center{
+    width: 100px;
+}
+
+.personal_loan_details_inner_sub_section_elements_title{
+    width: 150px;
+   text-align: left
+}
+
+.personal_loan_details_inner_sub_section_inner_main_details{
+    margin-top: 40px;
+}
+.personal_loan_details_inner_sub_section_inner_details{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.personal_loan_details_inner_sub_section_inner_sub_details{
+    margin-left: 40px;
+    
+}
+.personal_loan_details_inner_sub_section_inner_sub_details_head{
+    font-size: 18px;
+    font-weight: 500;
+   
+}
+
+.personal_loan_details_inner_sub_section_emi_table{
+    display: flex;
+    /* justify-content: center; */
+}
+.personal_loan_details_inner_sub_section_inner_emi_table{
+    margin-top: 20px;
+    text-align: left;
+    width: 50%;
+}
+
+
+.example_activ_loan{
+    width: 150px;
+    margin-right: 10px;
+}
+._loan_dots{
+    margin-right: 10px;
+    width: 30px;
+}

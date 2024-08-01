@@ -1,0 +1,101 @@
+
+.verify_detailes_main_container{
+    
+   padding: 15px;
+   font-family: sans-serif;
+   
+}
+.verify_detailes_main_container_form{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    background-color: #fff;
+    padding: 10px;
+    padding-left: 20px;
+    text-align: left;
+    border-radius: 5px;
+
+}
+.verify_detailes_main_form_heading{
+    font-size: 18px;
+}
+.verify_detailes_lable{
+    font-size: 15px;
+    color: rgb(92, 92, 92);
+}
+.verify_detailes_input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 0%;
+    width: 50%
+}
+
+.verify_detailes_input:focus {
+    outline: none !important;
+    box-shadow: none; 
+} 
+
+.horizontalLine{
+    width: 59%;
+}
+.verify_detailes_toggle{
+    width: 50%;
+    border: none;
+   border: 1px solid lightgray;
+   font-size: 15px;
+   color: rgb(49, 49, 49);
+   padding: 6px;
+}
+.verify_detailes_toggle:focus{
+    border: 1px solid lightgray;
+    
+}
+
+.verify_detailes_check_box{
+    font-size: 13px;
+    color: rgb(92, 92, 92);
+}
+.verify_detailes_main_container_submit_button1{
+    margin-top: 10px;
+    background-color: #EBCA28;
+    color: #fff;
+}
+
+.verify_detailes_main_container_submit_button1{
+    outline: none !important;
+   
+}
+.verify_detailes_main_container_submit_button1:hover{
+    color: #fff;
+   
+}
+
+
+.verify_detailes_main_container_submit_button1:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+
+.verify_detailes_main_container_submit_button1:focus {
+    outline: none !important;
+    box-shadow: none; /* Optional: Remove any box shadow */
+} 
+.personal_loan_cibil_check{
+    color: rgb(92, 92, 92);
+}
+.personal_loan_cibil_check:hover{
+    color: rgb(92, 92, 92);
+    border: none;
+}
+
+.verify_detailes_main_form_heading1{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(82, 81, 81);
+    text-align: left;
+}
+.verify_detailes_main_form_heading2{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(82, 81, 81);
+    text-align: left;
+}
